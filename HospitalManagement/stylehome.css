@@ -1,0 +1,382 @@
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<START OF HOMEEEE>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+
+
+*{margin:0;padding:0}
+.em{text-decoration:none}
+body{font-family:arial;font-size:14px;line-height:20px;background:	#D2B48C}
+.main{ width:960px;margin:20px auto;display:block;overflow:hidden}
+.header{ width:958px;height:280px;text-align:center;background-image: url("pic/Banner1.jpg.")}
+.header marquee{ float:center}
+.searchbutton {float:left;font-size: 150%; color: white;background:#2F4F4F;margin-left:10px;margin-top:5px;
+            border-radius: 4px;width:160px;text-align:center;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); }
+.asearch a{text-decoration:none;}
+.mainmenu{ font-size: 20px;width:960px;overflow:hidden;position: absolute;z-index: 100}
+.mainmenu ul{margin:0; padding: 0px;list-style:none}
+.mainmenu ul li{float:left;text-align:center;background:#BC8F8F;width:136.9px;line-height:30px}
+.mainmenu ul li a{display:block;color:#191970;text-decoration:none}
+.mainmenu ul li a:hover{background:#FFFFF0}
+.mainmenu ul li li{background:#FFEFD5;display:none;height: auto;									
+		margin: 0; 
+		padding: 0; }
+.mainmenu ul li li a{display:block;color:#000000		}
+.mainmenu ul li li a:hover{background:#D8BFD8;display:block}
+.part2{}
+.sidebar{float:left;height:429px;width:325px;background:#E0FFFF	;margin-top:1px}
+.maincontent{}
+.content{float:left;color:#000000}
+
+
+
+
+.Insidebar{margin-top:5px;background-color:#000000;height:419px;color:#FFFFF0;}
+.mainservice{text-align:center;}
+
+.mainservice ul {margin-left:10px; padding: 0px;list-style:none;}
+.mainservice ul li {float:left;text-align:center;background:#BC8F8F;width:300px;line-height:30px;height:50px ;display:block;margin:2px;text-align:center;}
+.mainservice ul li a{text-decoration:none;color:#000000}
+
+.mainservice ul li h2{ margin-top:8px;color:#000000}
+.mainservice ul li:hover{background:#FFE4E1;}		
+
+.sidebar2{margin-top:5px;background-color:#000000;height:455px;color:#FFFFF0;width:280px;overflow:hidden;margin-bottom:30px;}
+.newsevent{text-align:center;float:right;height:450px;width:280px;background-color:#000000;color:#FFFFF0;}
+.newsevent ul {margin-left:6px; padding: 0px;list-style:none;}
+.newsevent ul li {float:left;text-align:left;background:#BC8F8F;line-height:30px;height:50px ;width:265px;display:block;margin:2px;text-align:center;}
+.newsevent ul li a{text-decoration:none;color:#000000}
+
+.newsevent ul li h2{ margin-top:8px;color:#000000;text-align:left;margin-left:12px;}
+.newsevent ul li:hover{background:#FFE4E1;}		
+
+
+.midbar{margin-right:5px;height:450px;float:right;width:280px;overflow:hidden}
+.physicians{margin-bottom:5px;background-color:#FAEBD7;height:146px;}
+.PhyDescription	{margin-left:20px;}
+.PhyDescription a{text-decoration:none;}
+#phys{text-shadow:15px;color:#DC143C; font-size: 20px}
+#phydes{}	
+.students{margin-top:5px;background-color:#FAEBD7;height:148px;}
+.stuDescription	{margin-left:20px;}
+.stuDescription a{text-decoration:none;}
+#stu{color:#DC143C; font-size: 20px;}	
+.partners{background-color:#FFEFD5;height:145px;margin-top:5px}	
+.partners hover{background:white;}
+	.partDescription	{margin-left:25px;}
+	.partDescription ul li{margin-left:20px;}
+.partDescription a{text-decoration:none;}
+.partDescription ul li a:hover{background:#AFEEEE;}
+#par{color:#DC143C; font-size: 20px}	
+
+
+.vdo{height:450px;width:390px;float:left}
+.space{color:#D2B48C}
+.ccare{margin-top:5px;background-color:#FAEBD7;height:227px;}
+.ccare a{text-decoration:none;margin-left:15px}
+#cc{text-shadow: 2px 2px 2px #8A2BE2;color:#DC143C; font-size: 25px;margin-left:15px;}
+#ccDes{margin-left:15px;}
+
+.footer{background-color:#D2B48C}
+
+/* .....................<<<<<<<<<<<<<<<<<<<<END OF HOME>>>>>>>>>>>>>>>>>>>.............................. */
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<START OF INPETIENT>>>>>>>>>>>>>>>>>>>.............................. */
+
+
+.Ucontent{overflow:hidden;height:1200px}
+.Umenu{float:left;background-color:#FFEFD5;width:250px;height:550px;text-align:left}
+.Umenu h2{margin-left:12px;margin-top:8px}		
+.Umenu ul { padding: 0px;list-style:none;}		
+.Umenu ul li {margin-left:5px;margin-bottom:5px;float:left;text-align:left;background:#BC8F8F;line-height:30px;height:50px ;width:240px;display:block;text-align:left;}
+.Umenu ul li a{text-decoration:none;}
+.Umenu ul  li a:hover{background:#D8BFD8;color:#FFFFFF}		
+.Umenu ul li:hover{background:#B0C4DE;}		
+/* .....................<<<<<<<<<<<<<<<<<<<<END OF UniversalMENU>>>>>>>>>>>>>>>>>>>.............................. */
+
+
+.inpetientdata{float:right;background-color:#FFEFD5;width:703px;text-align:left;margin-left:7px}		
+.inpetientdataInside{margin:30px;float:center;}		
+.inpetientdataInside ul li{ list-style-type: square;margin-left:25px}	
+.inpetientdataInside h3{color:	#7B68EE}
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<END OF InPetient Service>>>>>>>>>>>>>>>>>>>.............................. */
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<START OF DONATE_BLOOD>>>>>>>>>>>>>>>>>>>.............................. */
+
+.donate{float:right;width:703px;text-align:left;margin-left:7px;}	
+.donatepic{float:right;width:200px;height:643px;margin-left:4px}
+.donateform{width:497px;background-color:#D8BFD8;position:absolute;height:auto;}
+#df{height:auto;}
+.innerdonateform{background-color:#D8BFD8;float:center;margin:35px;font-size:20px;font-family:raleway}
+
+.innerdonateform h2{text-align:center;}
+.innerdonateform input[type=submit] {
+width:100%;
+background-color:#228B22;
+color:#fff;
+border:2px solid #FFCB00;
+padding:10px;
+font-size:20px;
+cursor:pointer;
+border-radius:5px;
+margin-bottom:15px
+}
+.innerdonateform input[type=text] {
+width:99.5%;
+padding:10px;
+margin-top:8px;
+border:1px solid #ccc;
+padding-left:5px;
+font-size:16px;
+
+}
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<END OF DONATE_BLOOD>>>>>>>>>>>>>>>>>>>.............................. */
+
+
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<START OF after register DONATE_BLOOD>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+
+.cmpletdonateform {font-size:25px;background-color:#D8BFD8;width:497px;}
+.cmpletdonateform h3{text-align:center;color:#228B22}
+.innercmpletdonateform{margin-left:25px}
+#dfooter{font-size:12px}
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<END OF after register DONATE_BLOOD>>>>>>>>>>>>>>>>>>>.............................. */
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<START OF EMERGENCY>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+.emergencyinfo{background-color:#D8BFD8;float:right;width:702px;height:550px;text-align:left;margin-left:7px}	
+.donatepic{float:right;width:200px;height:643px;margin-left:4px}
+.donateform{width:497px;height:550px;background-color:#D8BFD8;position:absolute}
+.innerdonateform{background-color:#D8BFD8;float:center;margin:35px;font-size:20px; font-family: Arial, Helvetica, sans-serif;height:900px}
+.emerbox{ background-color: lightgrey;
+    width: 510px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 45px;
+	height:365px}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 2px solid blue;
+}
+
+td {
+    height: 40px;padding-left:10px;
+}
+
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<End OF EMERGENCY>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+
+
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<START OF AdminBloodBank>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+
+.adminbbank input[type=submit] {
+width:100%;
+background-color:#228B22;
+color:#fff;
+border:2px solid #FFCB00;
+padding:5px;
+font-size:25px;
+cursor:pointer;
+border-radius:2px;
+margin-bottom:5px
+}
+.adminbbank input[type=text] {
+width:99.5%;
+padding:5px;
+margin-top:3px;
+border:1px solid #ccc;
+padding-left:15px;
+font-size:14px;
+
+}
+.abbform{background-color:#D8BFD8;float:right;width:702px;height:815px;text-align:left;margin-left:7px}	
+
+.abbemerbox{ background-color: lightgrey;
+    width: 510px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 45px;
+	height:635px}
+
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<End OF AdminBloodBank>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<START OF BloodBank>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+.bbemergencyinfo{background-color:#D8BFD8;float:right;width:702px;height:760px;text-align:left;margin-left:7px}
+.bbemerbox{ background-color: lightgrey;
+    width: 510px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 45px;
+	height:455px}
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<EEEendddddd OF BloodBank>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<START OF Ambulance>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+.ambuemergencyinfo{background-color:#D8BFD8;float:right;width:702px;height:1100px;text-align:left;margin-left:7px}
+.ambuemerbox{ background-color: lightgrey;
+    width: 510px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 45px;
+	height:855px}
+#callambulance{background-color: white;}
+
+/* .....................<<<<<<<<<<<<<<<<<<<<EEEendddddd OF ambulance>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<START of SEARCH>>>>>>>>>>>>>>>>>>>
+.............................. */
+#searchinc{color:black}
+#results{color:black}
+.searchform{width:700px;height:550px;background-color:#D8BFD8;position:absolute}
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<EEEendddddd OF SEARCH>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<START OF notice>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+
+.adminnotice input[type=submit] {
+width:100%;
+background-color:#228B22;
+color:#fff;
+border:2px solid #FFCB00;
+padding:5px;
+font-size:25px;
+cursor:pointer;
+border-radius:2px;
+margin-bottom:5px
+}
+.noticeform{background-color:#D8BFD8;float:right;width:702px;height:915px;text-align:left;margin-left:7px}	
+
+.noticebox{ background-color: lightgrey;
+    width: 510px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 45px;
+	height:735px}
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<<end OF notice>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<START oF AFLIATED notice>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+#affliated{height:700px}
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<END oF AFLIATED notice>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+#docselect
+{
+font-size:17px;
+}
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<STARToF alldoctorinfo>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+.alldoctorinfo {margin-left:270px ;height:auto;position:absolute;background-color:#FAEBD7;width:686px;}
+.inneralldoc{margin:20px}
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<END oF alldoctorinfo>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+
+
+/* .....................<<<<<<<<<<<<<<<<<<<START oF CCARE>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+.say{font-style:italic}
+.back{background-color:white;margin-bottom:8px;border-radius:8px;font-family:arial;}
+.u{color:blue;margin-left:12px}
+#h{margin:15px;}
+#outercomment{ height:auto}
+.cform{width:702px;height:auto;background-color:#D8BFD8;position:absolute}
+
+/* .....................<<<<<<<<<<<<<<<<<<<END oF CCARE>>>>>>>>>>>>>>>>>>>
+.............................. */
+
+
+#admindoc{height:auto}
+#docform{margin:15px}
+#selectdoccat{margin-left:35px}
